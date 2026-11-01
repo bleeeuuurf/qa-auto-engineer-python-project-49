@@ -1,2 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/bleeeuuurf/qa-auto-engineer-python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/bleeeuuurf/qa-auto-engineer-python-project-49/actions)
+
+
+## Игра: «Проверка на чётность»
+
+[![asciicast](https://asciinema.org/a/WYV27xWRQzZ7o3nB.svg)](https://asciinema.org/a/WYV27xWRQzZ7o3nB)
